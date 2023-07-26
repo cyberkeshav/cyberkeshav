@@ -8,18 +8,41 @@
   - [Activity Overview](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Task 1 - Controls Assessment and Compliance Checklist](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Task 2 - Stakeholder Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Analyzing Network Attacks</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Cybersecurity Incident Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Analyzing Network Layer Communication</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Cybersecurity Incident Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Network Hardening</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Security Risk Assessment Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>OS Hardening Techniques</b>
   - [Activity Overview](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Security Incident Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Managing File Permissions Using Linux</b>
   - [Activity Overview](https://github.com/joshmadakor1/Sentinel-Lab)
   - [File Permissions in Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Applying filters to SQL Queries</b>
+  - [Activity Overview](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Applying filters](https://github.com/joshmadakor1/DecrypterPOC)
+ - <b>Asset Classification</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Home Asset Inventory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ - <b>Authentication, Authorization and Accounting for a small business</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Access Control Worksheet](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ - <b>Attack Vectors of a USB Drive</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Parking Lot USB Excercise](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ - <b>PASTA Threat Model Framework</b>
+  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [PASTA Worksheet](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 

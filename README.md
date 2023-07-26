@@ -11,8 +11,7 @@
 - <b>Analyzing Network Layer Communication</b>
   - [Completed Activity](https://github.com/cyberkeshav/network-layer-communication)
 - <b>Network Hardening</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Security Risk Assessment Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/network-hardening)
 - <b>OS Hardening Techniques</b>
   - [Activity Overview](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Security Incident Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)

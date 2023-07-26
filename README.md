@@ -61,14 +61,15 @@
 <h2>🏅 Cybersecurity Certifications</h2>
 
 - [Junior Cybersecurity Analyst Career Path - CISCO](https://www.credly.com/badges/8338a196-1952-4cd0-b98a-9d7a45f3fc2f/linked_in_profile)
-- [Foundations of Cybersecurity | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/XC7Q6E8ZZ8WE)
-- [Play It Safe: Manage Security Risks | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/43ZLM5SDT8UX)
-- [Connect and Protect: Networks and Network Security | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/BC4YJWAKHRXR)
-- [Tools of the Trade: Linux and SQL | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/Q2BDXYXT4UYD)
-- [Assets, Threats, and Vulnerabilities | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/G8L2CKMAMB63)
-- [Sound the Alarm: Detection and Response | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/9LQ5BV7835QL)
-- [Automate Cybersecurity Tasks with Python | Grow with Google on Coursera](https://www.coursera.org/account/accomplishments/certificate/K2KFG8Z2AE5R)
-- [Google Cybersecurity Certificate | Grow with Google on Coursera](https://www.credly.com/badges/e8d27c2f-35c9-44e6-af43-1345e7a08153/)
+- [Foundations of Cybersecurity | Google](https://www.coursera.org/account/accomplishments/certificate/XC7Q6E8ZZ8WE)
+- [Play It Safe: Manage Security Risks | Google](https://www.coursera.org/account/accomplishments/certificate/43ZLM5SDT8UX)
+- [Connect and Protect: Networks and Network Security | Google](https://www.coursera.org/account/accomplishments/certificate/BC4YJWAKHRXR)
+- [Tools of the Trade: Linux and SQL | Google](https://www.coursera.org/account/accomplishments/certificate/Q2BDXYXT4UYD)
+- [Assets, Threats, and Vulnerabilities | Google](https://www.coursera.org/account/accomplishments/certificate/G8L2CKMAMB63)
+- [Sound the Alarm: Detection and Response | Google](https://www.coursera.org/account/accomplishments/certificate/9LQ5BV7835QL)
+- [Automate Cybersecurity Tasks with Python | Google](https://www.coursera.org/account/accomplishments/certificate/K2KFG8Z2AE5R)
+- [Google Cybersecurity Certificate | Google](https://www.credly.com/badges/e8d27c2f-35c9-44e6-af43-1345e7a08153/)
+- [Microsoft Windows Defender and Firewall for Beginners | IBM](https://www.credly.com/badges/e8d27c2f-35c9-44e6-af43-1345e7a08153/)
 
 
 

@@ -7,8 +7,7 @@
 - <b>Security Audit - Botium Toys</b>
   - [Completed Acitivity](https://github.com/cyberkeshav/Security-Audit-Botium-Toys)
 - <b>Analyzing Network Attacks</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Cybersecurity Incident Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/analyzing-network-attacks)
 - <b>Analyzing Network Layer Communication</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Cybersecurity Incident Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

@@ -5,9 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Audit - Botium Toys</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Task 1 - Controls Assessment and Compliance Checklist](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Task 2 - Stakeholder Memorandum](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Completed Acitivity](https://github.com/cyberkeshav/Security-Audit-Botium-Toys)
 - <b>Analyzing Network Attacks</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Cybersecurity Incident Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

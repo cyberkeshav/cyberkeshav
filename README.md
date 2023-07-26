@@ -22,17 +22,17 @@
   - [Security Incident Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Managing File Permissions Using Linux</b>
   - [Activity Overview](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [File Permissions in Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- <b>Applying filters to SQL Queries</b>
+  - [File Permissions In Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Applying Filters To SQL Queries</b>
   - [Activity Overview](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Applying filters](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Applying Filters](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>Asset Classification</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Home Asset Inventory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Authentication, Authorization and Accounting for a small business</b>
+- <b>Authentication, Authorization and Accounting For A Small Business</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Access Control Worksheet](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Attack Vectors of a USB Drive</b>
+- <b>Attack Vectors Of A USB Drive</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Parking Lot USB Excercise](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>PASTA Threat Model Framework</b>

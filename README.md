@@ -9,9 +9,8 @@
 - <b>Analyzing Network Attacks</b>
   - [Completed Activity](https://github.com/cyberkeshav/analyzing-network-attacks)
 - <b>Analyzing Network Layer Communication</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Cybersecurity Incident Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Network Hardening</b>
+  - [Completed Activity](https://github.com/cyberkeshav/network-layer-communication)
+  - <b>Network Hardening</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Security Risk Assessment Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>OS Hardening Techniques</b>

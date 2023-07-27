@@ -28,7 +28,7 @@
   - [Completed Activity](https://github.com/cyberkeshav/PASTA-Threat-Model-Framework)
 - <b>Documenting An Incident</b>
   - [Completed Activity](https://github.com/cyberkeshav/documenting-an-incident)
-- <b>Researching Network Protocol Analyzers</b>
+- <b>Researching Network Protocol Analyzers | Wireshark & tcpdump</b>
   - [Completed Activity](https://github.com/cyberkeshav/Researching-Network-Protocol-Analyzers)
 - <b>Investigating A Suspicious File Hash Using Virus Total Website</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

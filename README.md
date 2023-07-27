@@ -25,8 +25,7 @@
 - <b>Attack Vectors Of A USB Drive</b>
   - [Completed Activity](https://github.com/cyberkeshav/attack-vectors-of-a-usb-drive)
 - <b>PASTA Threat Model Framework</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [PASTA Worksheet](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/PASTA-Threat-Model-Framework)
 - <b>Documenting An Incident</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Incident's Handler Journal Entry](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

@@ -15,8 +15,7 @@
 - <b>OS Hardening Techniques</b>
   - [Completed Activity](https://github.com/cyberkeshav/OS-Hardening-Techniques)
 - <b>Managing File Permissions Using Linux</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [File Permissions In Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Completed Activity](https://github.com/cyberkeshav/manage-file-permissions-in-linux)
 - <b>Applying Filters To SQL Queries</b>
   - [Activity Overview](https://github.com/joshmadakor1/EncrypterPOC)
   - [Applying Filters](https://github.com/joshmadakor1/DecrypterPOC)

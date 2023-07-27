@@ -21,8 +21,7 @@
 - <b>Asset Classification</b>
   - [Completed Activity](https://github.com/cyberkeshav/asset-classification)
 - <b>Authentication, Authorization and Accounting For A Small Business</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Access Control Worksheet](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/access-controls-worksheet)
 - <b>Attack Vectors Of A USB Drive</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Parking Lot USB Excercise](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

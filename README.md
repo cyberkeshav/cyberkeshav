@@ -13,8 +13,7 @@
 - <b>Network Hardening</b>
   - [Completed Activity](https://github.com/cyberkeshav/network-hardening)
 - <b>OS Hardening Techniques</b>
-  - [Activity Overview](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Security Incident Report](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Completed Activity](https://github.com/cyberkeshav/OS-Hardening-Techniques)
 - <b>Managing File Permissions Using Linux</b>
   - [Activity Overview](https://github.com/joshmadakor1/Sentinel-Lab)
   - [File Permissions In Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)

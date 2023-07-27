@@ -17,8 +17,7 @@
 - <b>Managing File Permissions Using Linux</b>
   - [Completed Activity](https://github.com/cyberkeshav/manage-file-permissions-in-linux)
 - <b>Applying Filters To SQL Queries</b>
-  - [Activity Overview](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Applying Filters](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Completed Activity](https://github.com/cyberkeshav/apply-filters-to-sql-queries)
 - <b>Asset Classification</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Home Asset Inventory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

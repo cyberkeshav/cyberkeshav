@@ -29,8 +29,7 @@
 - <b>Documenting An Incident</b>
   - [Completed Activity](https://github.com/cyberkeshav/documenting-an-incident)
 - <b>Researching Network Protocol Analyzers</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Diagram](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/Researching-Network-Protocol-Analyzers)
 - <b>Investigating A Suspicious File Hash Using Virus Total Website</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Investigation Findings](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

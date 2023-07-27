@@ -19,8 +19,7 @@
 - <b>Applying Filters To SQL Queries</b>
   - [Completed Activity](https://github.com/cyberkeshav/apply-filters-to-sql-queries)
 - <b>Asset Classification</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Home Asset Inventory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/asset-classification)
 - <b>Authentication, Authorization and Accounting For A Small Business</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Access Control Worksheet](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
@@ -36,7 +35,7 @@
 - <b>Researching Network Protocol Analyzers</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Diagram](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Investingating A Suspicious File Hash Using Virus Total Website</b>
+- <b>Investigating A Suspicious File Hash Using Virus Total Website</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Investigation Findings](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Responding To A Phishing Attack Using A Playbook</b>

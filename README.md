@@ -27,8 +27,7 @@
 - <b>PASTA Threat Model Framework</b>
   - [Completed Activity](https://github.com/cyberkeshav/PASTA-Threat-Model-Framework)
 - <b>Documenting An Incident</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Incident's Handler Journal Entry](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/documenting-an-incident)
 - <b>Researching Network Protocol Analyzers</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Diagram](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

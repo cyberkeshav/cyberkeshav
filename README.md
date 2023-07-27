@@ -33,8 +33,7 @@
 - <b>Investigating A Suspicious File Hash Using Virus Total Website</b>
   - [Completed Activity](https://github.com/cyberkeshav/Investigating-A-Suspicious-File-Hash)
 - <b>Responding To A Phishing Attack Using A Playbook</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Alert Ticket](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/Responding-To-A-Phishing-Attack-Using-A-Playbook)
 - <b>Responding To A Security Incident Using NIST Cybersecurity Framework</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Incident Report Analysis and Final Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

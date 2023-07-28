@@ -41,7 +41,8 @@
 
 
 <h2>💻 Technical Skills</h2>
-- <b>HTML & CSS</b>
+
+- HTML & CSS
 - SQL
 - Linux
 - Python

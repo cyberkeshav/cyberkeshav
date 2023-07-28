@@ -54,7 +54,7 @@
 
 <h2>🏅 Cybersecurity Certifications</h2>
 
-- [Junior Cybersecurity Analyst Career Path - CISCO](https://www.credly.com/badges/8338a196-1952-4cd0-b98a-9d7a45f3fc2f/linked_in_profile)
+- [Junior Cybersecurity Analyst Career Path | CISCO](https://www.credly.com/badges/8338a196-1952-4cd0-b98a-9d7a45f3fc2f/linked_in_profile)
 - [Foundations of Cybersecurity | Google](https://www.coursera.org/account/accomplishments/certificate/XC7Q6E8ZZ8WE)
 - [Play It Safe: Manage Security Risks | Google](https://www.coursera.org/account/accomplishments/certificate/43ZLM5SDT8UX)
 - [Connect and Protect: Networks and Network Security | Google](https://www.coursera.org/account/accomplishments/certificate/BC4YJWAKHRXR)

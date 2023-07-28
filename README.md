@@ -35,8 +35,7 @@
 - <b>Responding To A Phishing Attack Using A Playbook</b>
   - [Completed Activity](https://github.com/cyberkeshav/Responding-To-A-Phishing-Attack-Using-A-Playbook)
 - <b>Responding To A Security Incident Using NIST Cybersecurity Framework</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Incident Report Analysis and Final Report](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/Using-NIST-Cybersecurity-Framework-To-Respond-To-An-Incident)
 - <b>Updating A File Through A Python Algorithm</b>
   - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Using Python Algorithm To Update A File](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)

@@ -37,8 +37,18 @@
 - <b>Responding To A Security Incident Using NIST Cybersecurity Framework</b>
   - [Completed Activity](https://github.com/cyberkeshav/Using-NIST-Cybersecurity-Framework-To-Respond-To-An-Incident)
 - <b>Updating A File Through A Python Algorithm</b>
-  - [Activity Overview](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Using Python Algorithm To Update A File](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Completed Activity](https://github.com/cyberkeshav/Updating-A-File-Through-A-Python-Algorithm)
+
+
+<h2>💻 Technical Skills</h2>
+- HTML & CSS
+- SQL
+- Linux
+- Python
+- Wireshark
+- tcpdump
+- Splunk (SIEM)
+- Microsoft Windows and Firewall
 
 
 <h2>🏅 Cybersecurity Certifications</h2>
@@ -53,7 +63,6 @@
 - [Automate Cybersecurity Tasks with Python | Google](https://www.coursera.org/account/accomplishments/certificate/K2KFG8Z2AE5R)
 - [Google Cybersecurity Certificate | Google](https://www.credly.com/badges/e8d27c2f-35c9-44e6-af43-1345e7a08153/)
 - [Microsoft Windows Defender and Firewall for Beginners | IBM](https://www.credly.com/badges/e8d27c2f-35c9-44e6-af43-1345e7a08153/)
-
 
 
 

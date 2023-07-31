@@ -6,7 +6,7 @@
 
 - <b>Security Audit - Botium Toys</b>
   - [Completed Acitivity](https://github.com/cyberkeshav/Security-Audit-Botium-Toys)
-- <b>Analyzing Network Attacks</b>
+- <b>Analyzing Network Attacks Using Wireshark</b>
   - [Completed Activity](https://github.com/cyberkeshav/analyzing-network-attacks)
 - <b>Analyzing Network Layer Communication</b>
   - [Completed Activity](https://github.com/cyberkeshav/network-layer-communication)
